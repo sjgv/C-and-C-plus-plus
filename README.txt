@@ -1,3 +1,5 @@
+University of Utah students, if you are seeing this code as a solution for a class you are cheating.  
+
 /*Written by Salvador Gutierrez and Sara Chadwick 2018*/
 This is an application written in C/C++ to process changes in the inventory kept in different Warehouses. It keeps track of:
 [+] Underfilled orders (products that got more requests than could be filled)
@@ -10,3 +12,4 @@ To compile make sure you have gnu or gcc and simiply type
 make
 an executable should be made, then simply feed it a file like so:
 a.out nameOfFile.txt
+
